@@ -1,0 +1,8 @@
+// this will help get absolute path
+// no ned to type "../../"
+
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
